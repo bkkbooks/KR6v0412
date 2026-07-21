@@ -18,7 +18,7 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0412_000.yaml, hash: 'sha256:c8219309a3ebeb7da59e4be29a2edd91b514bd209d7f4969db9a907bf457ceba'}
+  - {seq: 0, filename: KR6v0412_000.yaml, hash: 'sha256:b5fd517e9deed6fd4bfe971917ec3a54e21330c62ea096f081f1df2bcbf74d1c'}
   - {seq: 9, filename: KR6v0412_009.yaml, hash: 'sha256:acd96a239eb71ae8f489c549f013b0bfb9846c5f94e1df846c5b69c88f43e229'}
   - {seq: 12, filename: KR6v0412_012.yaml, hash: 'sha256:b3d4fde345348f42bd8e64d5e508d47df114797368b097d7bb278c89f477e0bf'}
   - {seq: 13, filename: KR6v0412_013.yaml, hash: 'sha256:995f35714cff3eed67962397bb5b7bda7e45e61077ecc11f350c0f676e5efa10'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 18, filename: KR6v0412_018.yaml, hash: 'sha256:80968a589833fe6c8d204b1d2442bd15c861e282efcceab711e7402a92cbe681'}
   - {seq: 19, filename: KR6v0412_019.yaml, hash: 'sha256:0bbcff6009421180ba1f6620549aa5dcc46be81785ec5d43c7d4f5146456f822'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0412_000.markers.yaml, hash: 'sha256:f7bf70edc4e242dc881fcd4c066a139c3162548696a677f89a8249661e6ff57d'}
+  - {seq: 0, role: markers, filename: assets/KR6v0412_000.markers.yaml, hash: 'sha256:1f62636c867c55b979105d09db8008df74b5796c9505d391b5e1eef8628885f4'}
   - {seq: 9, role: markers, filename: assets/KR6v0412_009.markers.yaml, hash: 'sha256:282da782009b581158e1f038c782c702ee0b93629de11488bb0afe7bf9c0895f'}
   - {seq: 12, role: markers, filename: assets/KR6v0412_012.markers.yaml, hash: 'sha256:85cff4af2dd23da5dcb4db17a6d83df4afffff7ae08563fef8901e3f05071903'}
   - {seq: 13, role: markers, filename: assets/KR6v0412_013.markers.yaml, hash: 'sha256:4d9e5a61955fa5aa6e525fa079c4425047aa90ddefe6d95b07720390560c6f98'}
@@ -44,7 +44,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 自序
@@ -54,7 +54,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-2
     span:
-    - front
+    - body
     - 2626
     - 2626
   label: 卜營篇
@@ -64,7 +64,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-3
     span:
-    - front
+    - body
     - 2631
     - 2631
   label: 大法王寺
@@ -74,7 +74,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-4
     span:
-    - front
+    - body
     - 2878
     - 2878
   label: 嵩嶽寺
@@ -84,7 +84,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-5
     span:
-    - front
+    - body
     - 3082
     - 3082
   label: 會善寺
@@ -94,7 +94,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-6
     span:
-    - front
+    - body
     - 3238
     - 3238
   label: 少林寺
@@ -104,7 +104,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-7
     span:
-    - front
+    - body
     - 3472
     - 3472
   label: 峻極寺
@@ -114,7 +114,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-8
     span:
-    - front
+    - body
     - 3624
     - 3624
   label: 永泰寺
@@ -124,7 +124,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-9
     span:
-    - front
+    - body
     - 3777
     - 3777
   label: 盧巖寺
@@ -134,7 +134,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-10
     span:
-    - front
+    - body
     - 3962
     - 3962
   label: 下盧巖寺
@@ -144,7 +144,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-11
     span:
-    - front
+    - body
     - 3990
     - 3990
   label: 龍潭寺
@@ -154,7 +154,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-12
     span:
-    - front
+    - body
     - 4131
     - 4131
   label: 碑樓寺
@@ -164,7 +164,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-13
     span:
-    - front
+    - body
     - 4203
     - 4203
   label: 在孫寺
@@ -174,7 +174,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-14
     span:
-    - front
+    - body
     - 4245
     - 4245
   label: 龍華寺
@@ -184,7 +184,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-15
     span:
-    - front
+    - body
     - 4263
     - 4263
   label: 馬鳴寺
@@ -194,7 +194,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-16
     span:
-    - front
+    - body
     - 4283
     - 4283
   label: 西勝寺
@@ -204,7 +204,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-17
     span:
-    - front
+    - body
     - 4301
     - 4301
   label: 清凉寺
@@ -214,7 +214,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-18
     span:
-    - front
+    - body
     - 4324
     - 4324
   label: 華嚴寺
@@ -224,7 +224,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-19
     span:
-    - front
+    - body
     - 4345
     - 4345
   label: 寶林寺
@@ -234,7 +234,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-20
     span:
-    - front
+    - body
     - 4360
     - 4360
   label: 三峰寺
@@ -244,7 +244,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-21
     span:
-    - front
+    - body
     - 4505
     - 4505
   label: 玉泉寺
@@ -254,7 +254,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-22
     span:
-    - front
+    - body
     - 4521
     - 4521
   label: 淨明寺
@@ -264,7 +264,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-23
     span:
-    - front
+    - body
     - 4540
     - 4540
   label: 大嶽寺
@@ -274,7 +274,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-24
     span:
-    - front
+    - body
     - 4554
     - 4554
   label: 黃峪寺
@@ -284,7 +284,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-25
     span:
-    - front
+    - body
     - 4572
     - 4572
   label: 水峪寺
@@ -294,7 +294,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-26
     span:
-    - front
+    - body
     - 4592
     - 4592
   label: 石門寺
@@ -304,7 +304,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-27
     span:
-    - front
+    - body
     - 4610
     - 4610
   label: 竹園寺
@@ -314,7 +314,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-28
     span:
-    - front
+    - body
     - 4625
     - 4625
   label: 龍泉寺
@@ -324,7 +324,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-29
     span:
-    - front
+    - body
     - 4638
     - 4638
   label: 寶勝寺
@@ -334,7 +334,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-30
     span:
-    - front
+    - body
     - 4650
     - 4650
   label: 弘化寺
@@ -344,7 +344,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-31
     span:
-    - front
+    - body
     - 4664
     - 4664
   label: 普照寺
@@ -354,7 +354,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-32
     span:
-    - front
+    - body
     - 4676
     - 4676
   label: 崇法寺
@@ -364,7 +364,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-33
     span:
-    - front
+    - body
     - 4686
     - 4686
   label: 溫姑寺
@@ -374,7 +374,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-34
     span:
-    - front
+    - body
     - 4697
     - 4697
   label: 菩提寺
@@ -384,7 +384,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-35
     span:
-    - front
+    - body
     - 4714
     - 4714
   label: 清水寺
@@ -394,7 +394,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-36
     span:
-    - front
+    - body
     - 4732
     - 4732
   label: 白雲寺
@@ -404,7 +404,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-37
     span:
-    - front
+    - body
     - 4745
     - 4745
   label: 宣陽寺
@@ -414,7 +414,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-38
     span:
-    - front
+    - body
     - 4757
     - 4757
   label: 崇福寺
@@ -424,7 +424,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-39
     span:
-    - front
+    - body
     - 4771
     - 4771
   label: 普明寺
@@ -434,7 +434,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-40
     span:
-    - front
+    - body
     - 4848
     - 4848
   label: 道塲寺
@@ -444,7 +444,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-41
     span:
-    - front
+    - body
     - 4897
     - 4897
   label: 石窟靈巖寺
@@ -454,7 +454,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-42
     span:
-    - front
+    - body
     - 4947
     - 4947
   label: 天中寺
@@ -464,7 +464,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-43
     span:
-    - front
+    - body
     - 4978
     - 4978
   label: 封禪寺
@@ -474,7 +474,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-44
     span:
-    - front
+    - body
     - 5013
     - 5013
   label: 戒壇院
@@ -484,7 +484,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-45
     span:
-    - front
+    - body
     - 5116
     - 5116
   label: 峻極中院
@@ -494,7 +494,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-46
     span:
-    - front
+    - body
     - 5127
     - 5127
   label: 峻極下院
@@ -504,7 +504,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-47
     span:
-    - front
+    - body
     - 5149
     - 5149
   label: 寶林院
@@ -514,7 +514,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-48
     span:
-    - front
+    - body
     - 5164
     - 5164
   label: 龍潭院
@@ -524,7 +524,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-49
     span:
-    - front
+    - body
     - 5176
     - 5176
   label: 淨明院
@@ -534,7 +534,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-50
     span:
-    - front
+    - body
     - 5199
     - 5199
   label: 護國院
@@ -544,7 +544,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-51
     span:
-    - front
+    - body
     - 5202
     - 5202
   label: 法華院
@@ -554,7 +554,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-52
     span:
-    - front
+    - body
     - 5205
     - 5205
   label: 舍利院
@@ -564,7 +564,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-53
     span:
-    - front
+    - body
     - 5208
     - 5208
   label: 功德院
@@ -574,7 +574,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-54
     span:
-    - front
+    - body
     - 5211
     - 5211
   label: 御容院
@@ -584,7 +584,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-55
     span:
-    - front
+    - body
     - 5226
     - 5226
   label: 面壁菴
@@ -594,7 +594,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-56
     span:
-    - front
+    - body
     - 5320
     - 5320
   label: 二祖菴
@@ -604,7 +604,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-57
     span:
-    - front
+    - body
     - 5384
     - 5384
   label: 寶珠菴
@@ -614,7 +614,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-58
     span:
-    - front
+    - body
     - 5407
     - 5407
   label: 白雪菴
@@ -624,7 +624,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-59
     span:
-    - front
+    - body
     - 5422
     - 5422
   label: 朝陽菴
@@ -634,7 +634,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-60
     span:
-    - front
+    - body
     - 5431
     - 5431
   label: 吏隱菴
@@ -644,7 +644,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-61
     span:
-    - front
+    - body
     - 5453
     - 5453
   label: 張相公菴
@@ -654,7 +654,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-62
     span:
-    - front
+    - body
     - 5475
     - 5475
   label: 郎官菴
@@ -664,7 +664,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-63
     span:
-    - front
+    - body
     - 5510
     - 5510
   label: 長春菴
@@ -674,7 +674,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-64
     span:
-    - front
+    - body
     - 5513
     - 5513
   label: 谷神菴
@@ -684,7 +684,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0412_B_000-mulu-65
     span:
-    - front
+    - body
     - 5526
     - 5526
   label: 控鶴菴
@@ -10540,7 +10540,7 @@ table_of_contents:
   label: 後序
   type: mulu
   level: 1
-hash: sha256:717ebe0685cf6f0ca3a3d21cc7226e689c59dd8ba4daf9436fc60f7f72e9e80e
+hash: sha256:010c6a4d0bd6876b3409072be639295128872770e52d3472ca472a28def59a2a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
